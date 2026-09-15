@@ -114,8 +114,8 @@ const developer = {
 <a href="https://github.com/yonghun0310">
   <img src="https://img.shields.io/badge/GitHub-yonghun0310-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.instagram.com/y.0__0.h">
-  <img src="https://img.shields.io/badge/Instagram-y.0__0.h-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.instagram.com/gnoyx2">
+  <img src="https://img.shields.io/badge/Instagram-gnoyx2-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.reddit.com/user/fxck1ng_exam/">
   <img src="https://img.shields.io/badge/Reddit-fxck1ng__exam-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
