@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/yonghun0310">
+<a href="https://github.com/gnoyx2">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF88&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Web+Interface+%26+Backend+Dev;Workflow+Automation+Enthusiast;Problem+Solver" alt="Typing SVG"/>
 </a>
 
@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/MBTI-ISTP-38d9ff?style=for-the-badge&logo=psychology&logoColor=black" alt="MBTI"/>
   <img src="https://img.shields.io/badge/Age-만_19세-ff4fd8?style=for-the-badge&logo=user&logoColor=white" alt="Age"/>
 </p>
-<img src="https://komarev.com/ghpvc/?username=yonghun0310&label=Profile+Views&color=39FF88&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=gnoyx2&label=Profile+Views&color=39FF88&style=for-the-badge" alt="views"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonghun0310&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnoyx2&theme=tokyonight" width="100%"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 ```js
 const developer = {
   name: "정용훈 (Yonghun Jung)",
-  username: "yonghun0310",
+  username: "gnoyx2",
   major: "Computer Engineering @ Daejeon University",
   birth: "2007.03.10",
   mbti: "ISTP (Introverted, Sensing, Thinking, Perceiving)",
@@ -111,8 +111,8 @@ const developer = {
 <a href="mailto:jung@yonghun.pro">
   <img src="https://img.shields.io/badge/Email-jung%40yonghun.pro-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/yonghun0310">
-  <img src="https://img.shields.io/badge/GitHub-yonghun0310-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/gnoyx2">
+  <img src="https://img.shields.io/badge/GitHub-gnoyx2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.instagram.com/gnoyx2">
   <img src="https://img.shields.io/badge/Instagram-gnoyx2-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
