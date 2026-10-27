@@ -96,10 +96,19 @@ const developer = {
 
 ## 🚀 Projects
 
-- 📱 **새숨 (Saesoom)** — 직접 개발한 iOS 앱
+- 📱 **새숨 (Saesoom)** — 직접 개발한 iOS·Android 앱
 
 <a href="https://apps.apple.com/kr/app/%EC%83%88%EC%88%A8/id6795698143">
   <img src="https://img.shields.io/badge/App_Store-새숨_(Saesoom)-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.yonghun0310.saesoom">
+  <img src="https://img.shields.io/badge/Google_Play-새숨_(Saesoom)-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+</a>
+
+- 💊 **머거 (Meogeo)** — 처방전 스캔부터 가족 복약 관리까지 돕는 복약 관리 iOS 앱
+
+<a href="https://apps.apple.com/kr/app/%EB%A8%B8%EA%B1%B0/id6798170187">
+  <img src="https://img.shields.io/badge/App_Store-머거_(Meogeo)-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
 </a>
 
 - 💬 **IntraGram** — 서버·계정 없이 같은 Wi-Fi 안의 기기끼리 대화하는 P2P 메신저 (Flutter, iOS·Android·macOS·Windows·Linux + 브라우저 게스트)
