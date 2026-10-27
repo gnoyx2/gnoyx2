@@ -135,7 +135,7 @@ const developer = {
 <a href="https://www.reddit.com/user/fxck1ng_exam/">
   <img src="https://img.shields.io/badge/Reddit-fxck1ng__exam-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
 </a>
-<img src="https://img.shields.io/badge/Discord-y.0__0.h-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<img src="https://img.shields.io/badge/Discord-gnoyx2-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 
 <a href="https://yonghun.pro">
   <img src="https://img.shields.io/badge/Website-yonghun.pro-39FF88?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website"/>
